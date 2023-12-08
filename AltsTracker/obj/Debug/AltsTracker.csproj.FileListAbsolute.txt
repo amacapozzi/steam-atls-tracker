@@ -1,0 +1,15 @@
+C:\Users\Student\Documents\Developement\AltsTracker\AltsTracker\bin\Debug\AltsTracker.exe.config
+C:\Users\Student\Documents\Developement\AltsTracker\AltsTracker\bin\Debug\AltsTracker.exe
+C:\Users\Student\Documents\Developement\AltsTracker\AltsTracker\bin\Debug\AltsTracker.pdb
+C:\Users\Student\Documents\Developement\AltsTracker\AltsTracker\obj\Debug\AltsTracker.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Developement\AltsTracker\AltsTracker\obj\Debug\AltsTracker.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Developement\AltsTracker\AltsTracker\obj\Debug\AltsTracker.exe
+C:\Users\Student\Documents\Developement\AltsTracker\AltsTracker\obj\Debug\AltsTracker.pdb
+C:\Users\Student\Documents\Developement\AltsTracker\AltsTracker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Student\Documents\Developement\AltsTracker\AltsTracker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Student\Documents\Developement\AltsTracker\AltsTracker\obj\Debug\AltsTracker.csproj.CopyComplete
+C:\Users\Student\Documents\Developement\AltsTracker\AltsTracker\bin\Debug\Gameloop.Vdf.dll
+C:\Users\Student\Documents\Developement\AltsTracker\AltsTracker\bin\Debug\Gameloop.Vdf.JsonConverter.dll
+C:\Users\Student\Documents\Developement\AltsTracker\AltsTracker\bin\Debug\VdfConverter.dll
+C:\Users\Student\Documents\Developement\AltsTracker\AltsTracker\bin\Debug\Gameloop.Vdf.xml
+C:\Users\Student\Documents\Developement\AltsTracker\AltsTracker\bin\Debug\Gameloop.Vdf.JsonConverter.xml
